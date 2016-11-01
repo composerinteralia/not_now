@@ -1,3 +1,4 @@
+It's a gem for some reason:
 `gem install not_now`
 
 A simple hello world app:
